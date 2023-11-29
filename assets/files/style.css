@@ -1,3 +1,5 @@
+
+
 /*======================== common css 
 =================================================================================*/
 
@@ -17,6 +19,13 @@
     --first-Grey: rgb( 169, 182, 184); 
     --second-Grey: rgb( 147, 161, 161); 
     --bold-Grey: rgb( 88, 110, 117); 
+
+
+
+
+
+
+
 
 }
 a{
@@ -127,7 +136,7 @@ color: var(--orange-txt);
       top: 0;
       right: -100%;
       z-index: 100;
-      background-color: var(--bg-overlay-color);
+      background-color: var(--secondary-bg);
       transition: all 0.2s ease-in-out;
   }
   .menu li a{
