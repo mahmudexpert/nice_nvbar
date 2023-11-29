@@ -1,24 +1,10 @@
-
-
 /*======================== common css 
 =================================================================================*/
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
 :root{
-    --primary_bg:#0a181f;
-    --secondery_bg:#f5f8fd;
-    --primary_text:rgb(28, 67, 76);
-    --secondery_text:rgb(238, 232, 213);
     --white_text:#fff;
     --bg-white:#fff;
-    --bg-overlay-color: rgb(238, 232, 213);
-    --black_text:#000;
-    --bg-black:#000;
-    --color_text:#2dee86;
-
-
-
-
     --primary-bg-light:rgb(168, 180, 184);
     --primary-bg:rgb(28, 67, 76);
     --secondary-bg: rgb(238, 232, 213);
@@ -31,13 +17,6 @@
     --first-Grey: rgb( 169, 182, 184); 
     --second-Grey: rgb( 147, 161, 161); 
     --bold-Grey: rgb( 88, 110, 117); 
-
-
-
-
-
-
-
 
 }
 a{
