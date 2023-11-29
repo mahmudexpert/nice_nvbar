@@ -5,6 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
 :root{
+
     --white_text:#fff;
     --bg-white:#fff;
     --primary-bg-light:rgb(168, 180, 184);
@@ -19,15 +20,8 @@
     --first-Grey: rgb( 169, 182, 184); 
     --second-Grey: rgb( 147, 161, 161); 
     --bold-Grey: rgb( 88, 110, 117); 
-
-
-
-
-
-
-
-
 }
+
 a{
     text-decoration: none;
 }
